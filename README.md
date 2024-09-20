@@ -1,7 +1,7 @@
 # Gomez_Garcia_PR2
 print (" ")
 
-print ("Gomez Garcia Andres Noe ")
+print ("Gomez Garcia Andres Noe: Practica 2 ")
 
 print (" ")
 
@@ -21,5 +21,8 @@ print(type(y))
 
 print(type(z))
 
-![image](https://github.com/user-attachments/assets/40537edd-97d5-4bbf-92f6-9f1dc1803574)
+print (" ") 
+
+![image](https://github.com/user-attachments/assets/bd56b4ff-5e68-4aa1-a0ef-1ed0ed3b7cbe)
+
 

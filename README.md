@@ -23,6 +23,7 @@ print(type(z))
 
 print (" ") 
 
-![image](https://github.com/user-attachments/assets/bd56b4ff-5e68-4aa1-a0ef-1ed0ed3b7cbe)
+![image](https://github.com/user-attachments/assets/8e85cd7d-92dd-4aea-9ea7-dd4fd47b4849)
+
 
 
